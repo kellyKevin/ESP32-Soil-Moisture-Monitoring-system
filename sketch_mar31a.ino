@@ -7,7 +7,7 @@
 #include <TimeLib.h>  // Include TimeLib for time functions
 
 #define MOISTURE_SENSOR_PIN 34  // Moisture sensor input pin
-#define WEATHER_API_KEY "fb5a9e821b328eb5cd73f9e671a2dda1"  // Replace with OpenWeather API key
+#define WEATHER_API_KEY ""  // Replace with OpenWeather API key
 #define WIFI_SSID "Blue_sky"
 #define WIFI_PASSWORD "kelly_bluesky"
 
